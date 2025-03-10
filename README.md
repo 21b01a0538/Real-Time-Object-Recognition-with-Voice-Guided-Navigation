@@ -36,7 +36,7 @@
 
 ## Installation
 
-### Backend Setup
+### 1. Backend Setup
 
 ### Create and activate a virtual environment
 
@@ -46,21 +46,21 @@
 
 #### venv\Scripts\activate  # On Windows
 
-### Install dependencies
+### 2. Install dependencies
 
 #### pip install -r requirements.txt
 
-### Run the backend server
+### 3. Run the backend server
 
 #### python app.py
 
-### Frontend Setup
+### 4. Frontend Setup
 
 ### Install dependencies
 
 #### npm i
 
-### Start the frontend server
+### 5. Start the frontend server
 
 #### npm run dev
 
