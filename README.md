@@ -56,7 +56,7 @@
 
 ### 4. Frontend Setup
 
-### Install dependencies
+#### Install dependencies
 
 #### npm i
 
