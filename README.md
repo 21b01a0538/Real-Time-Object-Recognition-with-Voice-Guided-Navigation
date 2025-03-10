@@ -32,30 +32,38 @@ Deep Learning Models: SSD_MobileNet, IC_ResNet34, YOLOv8n, Frozen Inference Grap
 
 ## 1.Backend Setup
 
-# Create and activate a virtual environment
+## Create and activate a virtual environment
 
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate  # On Windows
 
-# 2.Install dependencies
+## 2.Install dependencies
 
 pip install -r requirements.txt
-Run the backend server
+
+## 3.Run the backend server
 
 python app.py
 
-Frontend Setup
+## 4.Frontend Setup
 
-Install dependencies
+## Install dependencies
 
 npm i
 
-Start the frontend server
+## 5.Start the frontend server
 
 npm run dev
 
+## Usage
 
+1.Start both the frontend and backend servers.
+2.Allow camera and microphone access.
+3.The system will detect objects and provide voice guidance.
+4.Customize settings as per your preference.
 
+## Contributing
 
-
+Feel free to contribute by submitting pull requests or reporting issues.
+For any inquiries, contact 21b01a0538@svecw.edu.in
