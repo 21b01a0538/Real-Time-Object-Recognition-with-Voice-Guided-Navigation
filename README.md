@@ -24,9 +24,9 @@ Settings Page: Allows users to personalize preferences and configurations.
 
 ## Technologies Used
 
-Frameworks: Flask, Flask-CORS
-Libraries: NumPy, OpenCV, Torch, Torchvision, Pillow, Ultralytics, pyttsx3, playsound, Transformers, gTTS
-Deep Learning Models: SSD_MobileNet, IC_ResNet34, YOLOv8n, Frozen Inference Graph (GP Model)
+### Frameworks: Flask, Flask-CORS
+#### Libraries: NumPy, OpenCV, Torch, Torchvision, Pillow, Ultralytics, pyttsx3, playsound, Transformers, gTTS
+#### Deep Learning Models: SSD_MobileNet, IC_ResNet34, YOLOv8n, Frozen Inference Graph (GP Model)
 
 ## Installation
 
@@ -48,7 +48,7 @@ python app.py
 
 ## 4.Frontend Setup
 
-## Install dependencies
+### Install dependencies
 
 npm i
 
@@ -59,11 +59,15 @@ npm run dev
 ## Usage
 
 1.Start both the frontend and backend servers.
+
 2.Allow camera and microphone access.
+
 3.The system will detect objects and provide voice guidance.
+
 4.Customize settings as per your preference.
 
 ## Contributing
 
 Feel free to contribute by submitting pull requests or reporting issues.
+
 For any inquiries, contact 21b01a0538@svecw.edu.in
