@@ -3,6 +3,8 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Features](features)
+- [Technologies](technologies)
 
 ## Overview
 
