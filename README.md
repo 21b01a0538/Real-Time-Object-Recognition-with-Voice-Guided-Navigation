@@ -17,25 +17,33 @@ This project is designed to assist visually impaired individuals by integrating 
 ## Features
 
 Object Detection: Identifies and announces objects in the environment.
+
 Voice Assistance: Provides real-time verbal feedback on detected objects.
+
 Navigation: Assists users in movement by guiding them safely.
+
 Multilingual Support: Supports multiple languages for a wider reach.
+
 Settings Page: Allows users to personalize preferences and configurations.
 
 ## Technologies Used
 
-### Frameworks: Flask, Flask-CORS
+#### Frameworks: Flask, Flask-CORS
+
 #### Libraries: NumPy, OpenCV, Torch, Torchvision, Pillow, Ultralytics, pyttsx3, playsound, Transformers, gTTS
+
 #### Deep Learning Models: SSD_MobileNet, IC_ResNet34, YOLOv8n, Frozen Inference Graph (GP Model)
 
 ## Installation
 
-## 1.Backend Setup
+## Backend Setup
 
 ## Create and activate a virtual environment
 
 python -m venv venv
+
 source venv/bin/activate  # On macOS/Linux
+
 venv\Scripts\activate  # On Windows
 
 ## 2.Install dependencies
