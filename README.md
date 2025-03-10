@@ -5,8 +5,8 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologiesused)
-- [Installation](#installation)
 - [How to Use](#howtouse)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -34,6 +34,10 @@ Frameworks: Flask, Flask-CORS
 Libraries: NumPy, OpenCV, Torch, Torchvision, Pillow, Ultralytics, pyttsx3, playsound, Transformers, gTTS
 
 Deep Learning Models: SSD_MobileNet, IC_ResNet34, YOLOv8n, Frozen Inference Graph (GP Model)
+
+## How to Use
+
+git clone https://github.com/21b01a0538/Real-Time-Object-Recognition-with-Voice-Guided-Navigation.git
 
 ## Installation
 
@@ -64,10 +68,6 @@ npm i
 ### 5. Start the frontend server
 
 npm run dev
-
-## How to Use
-
-git clone https://github.com/21b01a0538/Real-Time-Object-Recognition-with-Voice-Guided-Navigation.git
 
 ## Usage
 
